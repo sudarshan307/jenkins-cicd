@@ -13,11 +13,11 @@ This is the staus of jenkins which ran successfully on ubuntu.
 
 <img width="749" height="84" alt="Screenshot 2025-09-23 184832" src="https://github.com/user-attachments/assets/e1e26f55-da28-49bf-bbf0-f256eaa7e8ed" />
 
-This is status of jenkis which is active and running.
+This is status of jenkins which is active and running.
 
 <img width="1691" height="327" alt="Screenshot 2025-09-23 184722" src="https://github.com/user-attachments/assets/5db89b25-38b1-4179-b75a-38e5cd9efb89" />
 
-This process indicated the Docker build process in ubuntu.
+This process indicates the Docker build process in ubuntu.
 
 <img width="1682" height="807" alt="Screenshot 2025-09-23 184704" src="https://github.com/user-attachments/assets/9643e38d-ee57-48b0-8fa7-c90944a8e90c" />
 
